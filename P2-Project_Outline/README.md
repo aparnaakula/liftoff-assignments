@@ -13,19 +13,29 @@ I decided to make this project so that people can get more knowledge about the a
 
 ### Features
 --> User Sign up: Users will be able to create a new profile for themselves, allowing them to track their own queries, based on their own categories.
+
 --> User Login: Users will be able to login after creating a profile. Passwords will be hashed, salted, and possibly peppered.
+
 --> Edit, Create, and Delete Categories: Users will be able to create new categories to make their queries more specific.Categories will be flexible, and can be edited, and deleted.
+
 --> View recent queries posted: Users will be able to view a listing of recent queries, and by clicking on a recent query view details about that query.
+
 --> Delete Queries: Users will be able to delete queries.
+
 --> Like,Dislike,Share,Comment: Users can like or dislike the query and also can share the query on social media. The User can also comment the query.
 
 ### Technologies
 
 --> Java
--->JavaScript
+
+--> JavaScript
+
 --> Spring Boot
+
 --> MySQL
+
 --> Thymeleaf templates
+
 --> Bootstrap
 
 
