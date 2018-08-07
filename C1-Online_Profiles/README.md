@@ -10,8 +10,7 @@ For this assignment you will need to upload your resume, and provide links to yo
 https://github.com/aparnaakula
 
 ### LinkedIn
-https://www.linkedin.com/feed/
-
+https://www.linkedin.com/in/aparna-ramphe-637a8a9b/
 ### Resume
 https://drive.google.com/open?id=1h10l4cBJrmOSTI2d6CngYIiXGPSOB7IY920Zl-FE6EM
 
